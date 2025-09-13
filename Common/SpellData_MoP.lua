@@ -1208,7 +1208,7 @@ addon.SpellData = {
 
     -- Priest
     -- Shadow Word: Death
-    [32379] = {
+    [129176] = {
         class = addon.PRIEST,
         category = category.OTHERS,
         cooldown = 8,
